@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jordanNdjock
-- 👀 I’m interested in mobile développement 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile développement, web design and software engineering 
+- 🌱 I’m currently learning Java and C# 
 - 📫 How to reach me ... clothairegastalia@gmail.com
 
 <!---
