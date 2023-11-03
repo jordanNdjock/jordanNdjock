@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordanNdjock
 - 👀 I’m interested in mobile développement, web design and software engineering 
-- 🌱 I’m currently learning Java and C# 
+- 🌱 I’m currently learning laravel and react JS
 - 📫 How to reach me ... clothairegastalia@gmail.com
 
 <!---
